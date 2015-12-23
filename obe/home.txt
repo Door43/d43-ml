@@ -1,11 +1,10 @@
-====== Complete list of Important Terms ======
+====== Complete List of Important Terms - Malayalam ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:ml:obe:kt:home|Key Terms]]
-  * [[:ml:obe:other:home|Other Terms]]
-  * [[:ml:bible:admin-reports:obe-admin:obe-reject]]
-  * [[:ml:bible:team-info:training:topics:kt-yes-no|Is It a Key Term?]]
-==== All terms from both lists: ====
+  * [[:ml:obe:kt:home]]
+  * [[:ml:obe:other:home]]
 
-{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+==== All Important Terms: ====
+
+<nspages ml:obe -r -title -exclude:home -textPages="">

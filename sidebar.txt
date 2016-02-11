@@ -9,8 +9,8 @@
 **Help**
 
   * [[:ml:ta|translationAcademy]]
-  * [[:en:get-started|How to Get Started]]
-  * [[:en:obs:help|Open Bible Stories Help]]
+  * [[:ml:get-started|How to Get Started]]
+  * [[:ml:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
@@ -44,9 +44,9 @@
 
 **About Door43**
 
-  * [[:en:ta:vol1:intro:statement_of_faith|Statement of Faith]]
-  * [[:en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
-  * [[:en:ta:vol1:intro:open_license|Copyrights & Licensing]]
+  * [[:ml:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:ml:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:ml:ta:vol1:intro:open_license|Copyrights & Licensing]]
 
 **Door43 Development**
 

@@ -1,10 +1,11 @@
-====== Complete List of Important Terms - Malayalam ======
+====== Complete List of translationWords - Malayalam ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
+ 
+  * [[:ml:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:ml:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-  * [[:ml:obe:kt:home]]
-  * [[:ml:obe:other:home]]
 
-==== All Important Terms: ====
 
+==== All Terms in the OBE: ====
 <nspages ml:obe -r -title -exclude:home -textPages="">
